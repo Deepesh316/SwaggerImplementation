@@ -1,0 +1,29 @@
+{
+  "name": "swagger",
+  "version": "1.0.0",
+  "description": "Swagger API documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepesh316/SwaggerImplementation.git"
+  },
+  "keywords": [
+    "swagger",
+    "jsdoc"
+  ],
+  "author": "Deepesh Kumar R <deepeshkumar6080@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepesh316/SwaggerImplementation/issues"
+  },
+  "homepage": "https://github.com/Deepesh316/SwaggerImplementation#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^3.5.0",
+    "swagger-ui-express": "^4.1.2"
+  }
+}
