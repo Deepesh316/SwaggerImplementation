@@ -21,7 +21,7 @@ const options = {
     basePath: "/"
   },
   // Path to the API docs
-  apis: ["index.js"] // For complex api's pass something like apis: ["./routes/*.js"]
+  apis: ["src/index.js"] // For complex api's pass something like apis: ["./routes/*.js"]
 };
 
 // Initialize swagger-jsdoc -> returns validated swagger spec in json format
