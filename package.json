@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Deepesh316/SwaggerImplementation#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "swagger-jsdoc": "^3.5.0",
     "swagger-ui-express": "^4.1.2"
   }
